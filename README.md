@@ -1,6 +1,6 @@
 
 
-# [deprecated] simple-torrent-android
+# imple-torrent-android
 
 I'm no longer maintaining this project due to time constraints.
  It supports sequential and simultaneous downloads.
