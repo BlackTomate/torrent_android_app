@@ -1,10 +1,9 @@
-[![Release](https://jitpack.io/v/masterwok/simple-torrent-android.svg)](https://jitpack.io/#masterwok/simple-torrent-android)
+
 
 # [deprecated] simple-torrent-android
 
 I'm no longer maintaining this project due to time constraints.
-
-An Android torrent client library powered by [frostwire-jlibtorrent](https://github.com/frostwire/frostwire-jlibtorrent). It supports sequential and simultaneous downloads.
+ It supports sequential and simultaneous downloads.
 
 
 ## Usage
@@ -61,8 +60,6 @@ dependencies {
 }
 ```
 
-## Projects using simple-torrent-android
-- [Bit Cast](https://play.google.com/store/apps/details?id=com.masterwok.bitcast)
 
 ## Demo Screenshots
 
